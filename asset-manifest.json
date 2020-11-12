@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Gametictactoe/static/css/main.2111ccf4.chunk.css",
+    "main.js": "/Gametictactoe/static/js/main.4c3c0f75.chunk.js",
+    "main.js.map": "/Gametictactoe/static/js/main.4c3c0f75.chunk.js.map",
+    "runtime-main.js": "/Gametictactoe/static/js/runtime-main.68188ae0.js",
+    "runtime-main.js.map": "/Gametictactoe/static/js/runtime-main.68188ae0.js.map",
+    "static/css/2.06689f82.chunk.css": "/Gametictactoe/static/css/2.06689f82.chunk.css",
+    "static/js/2.e23b3f72.chunk.js": "/Gametictactoe/static/js/2.e23b3f72.chunk.js",
+    "static/js/2.e23b3f72.chunk.js.map": "/Gametictactoe/static/js/2.e23b3f72.chunk.js.map",
+    "index.html": "/Gametictactoe/index.html",
+    "static/css/2.06689f82.chunk.css.map": "/Gametictactoe/static/css/2.06689f82.chunk.css.map",
+    "static/css/main.2111ccf4.chunk.css.map": "/Gametictactoe/static/css/main.2111ccf4.chunk.css.map",
+    "static/js/2.e23b3f72.chunk.js.LICENSE.txt": "/Gametictactoe/static/js/2.e23b3f72.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68188ae0.js",
+    "static/css/2.06689f82.chunk.css",
+    "static/js/2.e23b3f72.chunk.js",
+    "static/css/main.2111ccf4.chunk.css",
+    "static/js/main.4c3c0f75.chunk.js"
+  ]
+}
