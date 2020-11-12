@@ -23,7 +23,7 @@ export const ResultModal = ({ isOpen, close, startNewGame, winner }) => {
 
         <ModalFooter>
           <Button onClick={close}>Close</Button>
-          <Button onClick={startNewGame}>Start over</Button>
+          <Button onClick={startNewGame}>Mulai Game</Button>
         </ModalFooter>
       </ModalWrapper>
     </StyledModal>

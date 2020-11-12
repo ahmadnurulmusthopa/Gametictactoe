@@ -158,7 +158,7 @@ const TicTacToe = ({ squares = arr }) => {
   return gameState === GAME_STATES.notStarted ? (
     <Screen>
       <Inner>
-        <ChooseText>Select difficulty</ChooseText>
+        <ChooseText>Pilih Level</ChooseText>
         <select onChange={changeMode} value={mode}>
           {Object.keys(GAME_MODES).map(key => {
             const gameMode = GAME_MODES[key];
@@ -171,10 +171,10 @@ const TicTacToe = ({ squares = arr }) => {
         </select>
       </Inner>
       <Inner>
-        <ChooseText>Choose your player</ChooseText>
+        <ChooseText>Pilih Pemain</ChooseText>
         <ButtonRow>
           <button onClick={() => choosePlayer(PLAYER_X)}>X</button>
-          <p>or</p>
+          <p>Atau</p>
           <button onClick={() => choosePlayer(PLAYER_O)}>O</button>
         </ButtonRow>
       </Inner>
